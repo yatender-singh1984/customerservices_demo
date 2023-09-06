@@ -1,0 +1,7 @@
+com/customer/fraud/FraudCheckService.class
+com/customer/fraud/FraudCheckHistory.class
+com/customer/fraud/FraudCheckHistoryRepository.class
+com/customer/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/customer/fraud/FraudApplication.class
+com/customer/fraud/FraudCheckController.class
+com/customer/fraud/FraudCheckResposne.class
